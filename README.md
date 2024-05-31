@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
 
 ### State Management
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Zustand&logoColor=purple">
+<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=Zustand&logoColor=purple">
