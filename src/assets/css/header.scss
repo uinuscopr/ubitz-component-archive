@@ -1,0 +1,40 @@
+.header {
+  width: 100%;
+  max-width: 47.8rem;
+  padding: 1rem 2rem;
+
+  display: flex;
+  align-items: center;
+  border-bottom: 1px #e8e8e8 solid;
+  background-color: #ffffff;
+  position: fixed;
+  z-index: 99;
+  top: 0;
+
+  .top-menu {
+    float: left;
+    cursor: pointer;
+
+    .menu-icon {
+      width: 3.2rem;
+    }
+  }
+
+  .top-logo {
+    width: calc(100% - 3.2rem);
+    display: flex;
+    justify-content: center;
+
+    .logo {
+      text-indent: -9999px;
+      float: left;
+      height: 3.3rem;
+      display: flex;
+
+      .logo-img {
+        width: 10rem;
+        cursor: pointer;
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+/* 변수파일 */
+@import "./_utils";
+
+.body-wrapper {
+  width: 100%;
+  display: flex;
+}
+
+.wrap-contents {
+  width: 100%;
+  max-width: 48rem;
+  // height: 100vh;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  margin: 0 auto;
+
+  @include mobileMin {
+    border-left: 1px solid var(--gray-scale-050);
+    border-right: 1px solid var(--gray-scale-050);
+  }
+}

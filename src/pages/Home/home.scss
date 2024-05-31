@@ -1,0 +1,21 @@
+.home-container {
+  width: 100%;
+  padding: 2rem;
+
+  h1 {
+    margin-bottom: 1rem;
+  }
+
+  ul {
+    width: 100%;
+
+    li {
+      width: 100%;
+      padding: 0.8rem 1rem;
+      margin-bottom: 1rem;
+      background-color: #efefef;
+      border-radius: 1rem;
+      cursor: pointer;
+    }
+  }
+}
